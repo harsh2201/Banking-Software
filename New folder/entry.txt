@@ -1,0 +1,66 @@
+Username: harshjobanputra
+The main Balance is:11000
+Amount debited is:500
+The main balance is now:10500
+Date is:3/4/2018
+Time is:16:33:52
+Username: poojandharaiya
+The main Balance is:51200
+Amount debited is:5000
+The main balance is now:46200
+Date is:3/4/2018
+Time is:16:34:17
+Username: karankathiriya
+The main Balance is:19900
+Amount debited is:560
+The main balance is now:19340
+Date is:3/4/2018
+Time is:16:34:44
+Username: poojandharaiya
+The main Balance is:46200
+Amount credited is:50000
+The main balance is now:96200
+Date is:3/4/2018
+Time is:16:40:6
+Username: poojandharaiya
+The main Balance is:96200
+Amount debited is:6000
+The main balance is now:90200
+Date is:3/4/2018
+Time is:16:40:48
+Username: poojandharaiya
+The main Balance is:90200
+Amount debited is:200
+The main balance is now:90000
+Date is:3/4/2018
+Time is:18:1:18
+Username: harshjobanputra
+The main Balance is:10500
+Amount credited is:5000
+The main balance is now:15500
+Date is:3/4/2018
+Time is:20:52:37
+Username: poojandharaiya
+The main Balance is:90000
+Amount debited is:20000
+The main balance is now:70000
+Date is:3/4/2018
+Time is:23:36:44
+Username: harshjobanputra
+The main Balance is:15500
+Amount debited is:500
+The main balance is now:15000
+Date is:4/4/2018
+Time is:0:3:27
+Username: harshjobanputra
+The main Balance is:15000
+Amount debited is:500
+The main balance is now:14500
+Date is:4/4/2018
+Time is:0:3:34
+Username: harshjobanputra
+The main Balance is:13000
+Amount credited is:1000
+The main balance is now:14000
+Date is:12/4/2018
+Time is:20:28:19

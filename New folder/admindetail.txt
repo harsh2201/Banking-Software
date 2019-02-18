@@ -1,0 +1,24 @@
+1
+karankathiriya
+kk12345
+ACCOUNT_DETAILS:
+Adhaar_no:- 143215241424
+Balance:- 10000
+2
+poojandharaiya
+pd12345
+ACCOUNT_DETAILS:
+Adhaar_no:- 534256267654
+Balance:- 10000
+3
+harshjobanputra
+hj12345
+ACCOUNT_DETAILS:
+Adhaar_no:- 234573451254
+Balance:- 10000
+4
+vidhyakothadia
+vk12345
+ACCOUNT_DETAILS:
+Adhaar_no:- 424515342341
+Balance:- 10000
